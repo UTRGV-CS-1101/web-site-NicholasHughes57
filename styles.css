@@ -11,6 +11,10 @@ h2 {
 h3 {
     color:darkorchid
 }
+h4 {
+    font-size: larger;
+    color:black
+}
 a {
     color: black;
     font-weight: 100;
@@ -40,3 +44,7 @@ a {
     font-style: italic;
     color: darkslategrey
 }
+#imgsrc{
+    font-size: x-small;
+}
+
