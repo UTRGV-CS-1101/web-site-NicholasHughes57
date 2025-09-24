@@ -1,12 +1,15 @@
 h1 {
-    color:blue;
+    color:darkorange;
     font-weight: 100;
 
 }
 
 h2 {
-    color:red;
-
+    color:darkblue;
+    font-weight: 100;
+}
+h3 {
+    color:darkorchid
 }
 a {
     color: black;
@@ -20,16 +23,20 @@ a {
 }
 .funfact {
     width: 1%;
-    color:coral;
-    font-style: italic;
-    text-decoration: line-through;
+    color: coral;
+    
     
 }
 #special {
     font-style: oblique;
-
+    color:darkslategray
 
 }
 #specialDos {
     font-style: italic;
+    color:darkslategray
+}
+#specialTres {
+    font-style: italic;
+    color: darkslategrey
 }
